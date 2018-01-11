@@ -241,6 +241,9 @@ a {
       li {
         margin-top: 8px;
         list-style: square inside;
+        ul {
+          margin-left: 1.6em;
+        }
       }
     }
     .item {
